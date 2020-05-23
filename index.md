@@ -1,4 +1,0 @@
-# BohdanQQ
-
-## Welcome
-Hello, world!
